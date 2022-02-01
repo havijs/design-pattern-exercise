@@ -1,4 +1,4 @@
-package com.knavid.TemplateMethod;
+package com.knavid.templateMethod;
 
 public abstract class ClassInformation {
     public final double totalGrade(double presenceGrade, double assignmentsGrade, double midtermGrade, double finalGrade) {

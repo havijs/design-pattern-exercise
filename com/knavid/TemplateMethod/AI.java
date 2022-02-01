@@ -1,4 +1,4 @@
-package com.knavid.TemplateMethod;
+package com.knavid.templateMethod;
 
 public class AI extends ClassInformation {
     /**

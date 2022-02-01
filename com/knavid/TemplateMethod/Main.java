@@ -1,4 +1,4 @@
-package com.knavid.TemplateMethod;
+package com.knavid.templateMethod;
 
 class Main {
     public static void main(String[] args) {
